@@ -1,1 +1,1 @@
-## Repository for sharing files for peer review
+Repository for sharing files for peer review
